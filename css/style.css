@@ -1,0 +1,48 @@
+
+        #wrapper{
+            max-width: 80%;
+            margin:0 auto;
+        }
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h6 {
+            font-family: Helvetica;
+            font-size: 1.3rem;
+            padding-left: 1rem;
+        }
+        .hfontcolor{
+            color: #F05454;
+        }
+        p {
+            padding-left: 2rem;
+        }
+
+        a {
+            font-family: Raleway;
+            text-decoration: none;
+            font-weight: 700;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        span {
+            font-weight: bold;
+        }
+
+        img {
+            max-height: 20rem;
+        }
+
+        .vurgu>a {
+            text-decoration: underline;
+            color: #588B8B;
+        }
+
+        .vurgula {
+            text-decoration: none;
+            color: #F28F3B;
+        }
